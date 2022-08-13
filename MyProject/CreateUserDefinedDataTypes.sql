@@ -1,0 +1,13 @@
+
+
+-- Creacion de tipos de datos
+
+CREATE TYPE paciente FROM INT NOT NULL;
+
+CREATE TYPE medico FROM INT NOT NULL;
+
+CREATE TYPE turno FROM INT NOT NULL;
+
+CREATE TYPE historia FROM INT NOT NULL;
+
+CREATE TYPE observacion FROM VARCHAR(1000) NULL;
