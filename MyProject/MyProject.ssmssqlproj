@@ -91,11 +91,41 @@
           <AssociatedConnUserName>sa</AssociatedConnUserName>
           <FullPath>ModificacionTablas.sql</FullPath>
         </FileNode>
+        <FileNode Name="OperadoresAritmeticosComparacion.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>OperadoresAritmeticosComparacion.sql</FullPath>
+        </FileNode>
         <FileNode Name="OperadoresLogicos.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\:False:sa</AssociatedConnectionMoniker>
           <AssociatedConnSrvName>(local)\</AssociatedConnSrvName>
           <AssociatedConnUserName>sa</AssociatedConnUserName>
           <FullPath>OperadoresLogicos.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP_ALTA_Especialidad.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SP_ALTA_Especialidad.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP_ALTA_Medico.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SP_ALTA_Medico.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP_ALTA_Paciente.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SP_ALTA_Paciente.sql</FullPath>
+        </FileNode>
+        <FileNode Name="SP_ALTA_Turnos.sql">
+          <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\:False:sa</AssociatedConnectionMoniker>
+          <AssociatedConnSrvName>(local)\</AssociatedConnSrvName>
+          <AssociatedConnUserName>sa</AssociatedConnUserName>
+          <FullPath>SP_ALTA_Turnos.sql</FullPath>
         </FileNode>
         <FileNode Name="StoredProcedures.sql">
           <AssociatedConnectionMoniker>8c91a03d-f9b4-46c0-a305-b5dcc79ff907:(local)\:False:sa</AssociatedConnectionMoniker>
